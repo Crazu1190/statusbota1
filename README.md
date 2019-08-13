@@ -1,0 +1,2 @@
+# statusbota1
+!pomoc
